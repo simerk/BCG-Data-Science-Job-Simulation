@@ -1,6 +1,6 @@
-# BCG Data Science Job Simulation – Forage
+# BCG X Data Science Job Simulation – Forage
 
-This repository contains my solutions for the **BCG Data Science Virtual Job Simulation** offered by **Forage**.
+This repository contains my solutions for the **BCG X Data Science Virtual Job Simulation** offered by **Forage**.
 
 ---
 
@@ -50,7 +50,7 @@ Forage virtual job simulations provide hands-on experience by replicating real w
 
 ## Acknowledgements
 
-- BCG
+- BCG X
 - Forage
 
 ---
