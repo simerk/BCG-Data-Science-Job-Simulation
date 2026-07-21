@@ -14,7 +14,7 @@ The core business question: **is customer churn being driven by price sensitivit
 
 ## Repository Structure
 
-### 📂 [Task 1 – Business Understanding](./Task%201)
+### 📂 [Task 1 – Business Understanding](./Task%201:%20Business%20Understanding)
 Reviewed the business context and client request from PowerCo, understanding the churn problem from a business perspective and identifying what data and analysis would be needed to investigate it.
 
 ### 📂 [Task 2 – Problem Framing & Hypothesis](./Task%202)
