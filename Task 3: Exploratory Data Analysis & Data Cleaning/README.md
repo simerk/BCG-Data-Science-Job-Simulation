@@ -73,10 +73,17 @@ Having framed customer churn as a potential price-sensitivity problem in Task 2,
 
 ## Key Visualizations
 
-![Churn Distribution](Assets/churn_distribution.png)
-![Churn by Sales Channel](Assets/churn_by_sales_channel.png)
-![Consumption Distribution](Assets/consumption_distribution.png)
-![Consumption Boxplot - Outliers](Assets/consumption_boxplot.png)
+Churn Distribution
+> ![Churn Distribution](Assets/churn_distribution.png)
+
+Churn by Sales Channel
+> ![Churn by Sales Channel](Assets/churn_by_sales_channel.png)
+
+Consumption Distribution
+> ![Consumption Distribution](Assets/consumption_distribution.png)
+
+Consumption Boxplot - Outliers
+> ![Consumption Boxplot - Outliers](Assets/consumption_boxplot.png)
 
 ---
 
