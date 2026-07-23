@@ -17,10 +17,10 @@ The core business question: **is customer churn being driven by price sensitivit
 ### 📂 [Task 1 – Business Understanding](./Task%201:%20Business%20Understanding)
 Reviewed the business context and client request from PowerCo, understanding the churn problem from a business perspective and identifying what data and analysis would be needed to investigate it.
 
-### 📂 [Task 2 – Problem Framing & Hypothesis](./Task%202)
+### 📂 [Task 2 – Problem Framing & Hypothesis](./Task%202:%20Problem%20Framing%20&%20Hypothesis)
 Framed the business problem as a testable hypothesis — does price sensitivity drive customer churn? — and outlined a data-driven approach for investigating it, including what data was needed and how it would be analyzed.
 
-### 📂 [Task 3 – Exploratory Data Analysis](./Task%203)
+### 📂 [Task 3 – Exploratory Data Analysis & Data Cleaning](./Task%203:%20Exploratory%20Data%20Analysis%20&%20Data%20Cleaning)
 Explored and cleaned the client and price datasets, analyzing consumption, contract, and pricing data in Python to surface early patterns related to churn and prepare the data for feature engineering.
 
 ### 📂 [Task 4 – Feature Engineering](./Task%204)
