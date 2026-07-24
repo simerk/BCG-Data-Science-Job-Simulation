@@ -23,13 +23,13 @@ Framed the business problem as a testable hypothesis — does price sensitivity 
 ### 📂 [Task 3 – Exploratory Data Analysis & Data Cleaning](./Task%203:%20Exploratory%20Data%20Analysis%20&%20Data%20Cleaning)
 Explored and cleaned the client and price datasets, analyzing consumption, contract, and pricing data in Python to surface early patterns related to churn and prepare the data for feature engineering.
 
-### 📂 [Task 4 – Feature Engineering](./Task%204)
+### 📂 [Task 4 – Feature Engineering](./Task%204:%20Feature%20Engineering)
 Engineered new features to test the price-sensitivity hypothesis more directly — including price differences across peak/off-peak periods and month-over-month price variation — alongside date decomposition, categorical encoding, skew correction, and correlation-based feature pruning to prepare a clean modeling dataset.
 
-### 📂 [Task 5 – Predictive Modeling](./Task%205)
+### 📂 [Task 5 – Predictive Modeling](./Task%205:%20Predictive%20Modeling)
 Built and evaluated a Random Forest classification model to predict customer churn, using accuracy, precision, and recall. Analyzed feature importance to identify the true drivers of churn — finding that net margin and consumption behavior mattered more than the engineered price-sensitivity features.
 
-### 📂 [Task 6 – Insights and Recommendations](./Task%206)
+### 📂 [Task 6 – Insights and Recommendations](./Task%206:%20Insights%20and%20Recommendations)
 Synthesized the findings from the full analysis into a single-slide executive summary for senior stakeholders, following the SCQA (Situation–Complication–Question–Answer) framework to communicate the business recommendation clearly and concisely.
 
 ---
