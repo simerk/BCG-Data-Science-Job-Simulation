@@ -2,6 +2,10 @@
 
 This repository contains my solutions for the **BCG X Data Science Virtual Job Simulation** offered by **Forage**.
 
+<p align="center">
+  <img src="Assets/repo-card.png" alt="Repository Banner" width="100%">
+</p>
+
 ---
 
 ## Overview
@@ -29,7 +33,7 @@ Engineered new features to test the price-sensitivity hypothesis more directly �
 ### 📂 [Task 5 – Predictive Modeling](./Task%205:%20Predictive%20Modeling)
 Built and evaluated a Random Forest classification model to predict customer churn, using accuracy, precision, and recall. Analyzed feature importance to identify the true drivers of churn — finding that net margin and consumption behavior mattered more than the engineered price-sensitivity features.
 
-### 📂 [Task 6 – Insights and Recommendations](./Task%206:%20Insights%20and%20Recommendations)
+### 📂 [Task 6 – Insights & Recommendations](./Task%206:%20Insights%20&%20Recommendations)
 Synthesized the findings from the full analysis into a single-slide executive summary for senior stakeholders, following the SCQA (Situation–Complication–Question–Answer) framework to communicate the business recommendation clearly and concisely.
 
 ---
